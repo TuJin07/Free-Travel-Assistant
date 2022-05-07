@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
+<<<<<<< HEAD
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottomNavigationView"
@@ -15,4 +16,27 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:menu="@menu/navigation" />
+=======
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="1dp" />
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/navigation_item1"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/title_size" />
+        <item
+            android:id="@+id/navigation_item2"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="@string/title_style" />
+        <item
+            android:id="@+id/navigation_item3"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="@string/title_in_list" />
+    </menu>
+
+>>>>>>> ff5c0e2abd255d1377b69f3e28945a6647a86adc
 </androidx.constraintlayout.widget.ConstraintLayout>
