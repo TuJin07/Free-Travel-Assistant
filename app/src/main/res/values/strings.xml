@@ -7,4 +7,8 @@
     <string name="button2_text">线路</string>
     <string name="button3_text">景点</string>
     <string name="button4_text">美食</string>
+
+    <string name="button_setting_text">设置</string>
+    <string name="button_contactus_text">联系我们</string>
+    <string name="button_logout_text">退出登录</string>
 </resources>
