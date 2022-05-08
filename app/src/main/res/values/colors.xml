@@ -8,6 +8,13 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 <!--    主题色 与 暗色主题色-->
-    <color name="colorPrimary">#144a74</color>
-    <color name="colorPrimaryDark">#132c33</color>
+    <color name="colorPrimary">#598987</color>
+    <color name="colorPrimaryDark">#598987</color>
+<!--    首页 按钮颜色-->
+    <color name="button1color">#678F8D</color>
+    <color name="button2color">#77A88D</color>
+    <color name="button3color">#FFD000</color>
+    <color name="button4color">#FF6670</color>
+<!--    卡片 背景-->
+    <color name="card_background">#eef7f2</color>
 </resources>
