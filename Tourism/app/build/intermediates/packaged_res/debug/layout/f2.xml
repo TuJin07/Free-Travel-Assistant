@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/newRcv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+    <RelativeLayout
+        android:id="@+id/editRoot"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:background="#80000000">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginHorizontal="40dp"
+            android:background="@drawable/bg"
+            android:padding="20dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="新建行程"
+                android:textSize="22sp"
+                android:textColor="@color/a1_600"
+                android:layout_marginBottom="12dp"
+                android:paddingVertical="10dp"
+                />
+
+
+            <EditText
+                android:id="@+id/e4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="输入行程名称"
+                android:paddingVertical="10dp"
+                android:paddingStart="15dp"
+                android:background="@drawable/tv"
+                android:layout_marginVertical="10dp"
+                android:textSize="16sp"
+                />
+
+            <EditText
+                android:id="@+id/e1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="输入目的地"
+                android:paddingVertical="10dp"
+                android:paddingStart="15dp"
+                android:background="@drawable/tv"
+                android:layout_marginVertical="10dp"
+                android:textSize="16sp"
+                />
+
+            <EditText
+                android:id="@+id/e2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="输入交通方式"
+                android:paddingVertical="10dp"
+                android:paddingStart="15dp"
+                android:background="@drawable/tv"
+                android:layout_marginVertical="10dp"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:id="@+id/e5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="选择日期"
+                android:background="@drawable/tv"
+                android:paddingVertical="10dp"
+                android:paddingStart="15dp"
+                android:layout_marginVertical="10dp"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:id="@+id/e3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="选择时间(请务必先选择日期)"
+                android:background="@drawable/tv"
+                android:paddingVertical="10dp"
+                android:paddingStart="15dp"
+                android:layout_marginVertical="10dp"
+                android:textSize="16sp"
+                />
+
+            <TextView
+                android:id="@+id/save"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/a1_600"
+                android:text="保存"
+                android:textSize="17sp"
+                android:layout_gravity="end"
+                android:layout_marginTop="15dp"
+                android:padding="10dp"
+                android:background="?selectableItemBackground"
+                android:layout_marginEnd="12dp"
+                />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="48dp"
+        android:src="@drawable/ic_baseline_add_24" />
+
+</FrameLayout>

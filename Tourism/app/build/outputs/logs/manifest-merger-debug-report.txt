@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Xuan\.gradle\caches\transforms-3\a853fda617d78bf508a401c46e4a5067\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Xuan\.gradle\caches\transforms-3\a4c5531440d789304747b0f4d3831e19\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Xuan\.gradle\caches\transforms-3\3119a911a7a9c2d9d685325d9c067556\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Xuan\.gradle\caches\transforms-3\0730827d1aa8c754a1b0c5cb09da9d35\transformed\appcompat-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Xuan\.gradle\caches\transforms-3\74f74d0d9eb180a29dfb8718e4619673\transformed\glide-4.13.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\a8d61499fa069c54974b568507ed2faf\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Xuan\.gradle\caches\transforms-3\a8d93e52e76f6b2d2a2c2cefe65ba64f\transformed\fragment-1.3.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Xuan\.gradle\caches\transforms-3\0a9cda4f30b8e7b084710d1dc0a21ba2\transformed\activity-1.2.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Xuan\.gradle\caches\transforms-3\23e8d1415321301bbb0bc725ed17b6f6\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\bd4eef4f5442853c1dec23f40d0089e3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\a5570e1fa94c37b068a1f2c84857bdb5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\9687f07566da4384dc89e16ea088dfe0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Xuan\.gradle\caches\transforms-3\e868dff6a42eaeeb636b72fa989639b2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\c0c5254ca195197b52e76ce985792209\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\c4d3e86c21d0060759c2cb255a4a146b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\a976b3973a19117cd60544c9e392a5a0\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\8ae72c9cdbcce77d279e7b34c46f9d5b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\3ea4ebd9221beca529a327239eb4504a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\00472b53e1b1d66ffbe69491400a6ac5\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\8156ee4f9e5c1ca8e3e892f57f10268c\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Xuan\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\72f1c97ff6204af886160caebafcd1c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\6b37cecfc7dd9876670f4a69167b6081\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\05cb3fb8d7abb322c0ea6461c0facac5\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\bf5a2e6385b5c3cfdf189b59fa48a1a8\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\b3607758cc09900db33f0aadc3764b6d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\beb5996562aae1c5c682e0da30cf6ef4\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Xuan\.gradle\caches\transforms-3\f1b611f90791e53ddae38c72310a96cc\transformed\gifdecoder-4.13.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Xuan\.gradle\caches\transforms-3\cb336aeb843fe1b812e15a9289fce3d0\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\0bc47bb8c41cf224d1e82e026f1c6eea\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Xuan\.gradle\caches\transforms-3\227c5fd3fcee05438e1dbf228353e308\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\10152abbe9d714382c4cfa4286a5f245\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\89961c0cbe256c3c3478622d15a99943\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\312759f95f5b17b49b3a0d3c7068c03b\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\f4a0188b1d5584df4388b22dec68648e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\e46c73095c8fa9976053cee1668aab2b\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\bf6f6efc009e5e544b348e31144b4b9d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\563980873d44ac8bc5a14f3a3575b789\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\1de1497f5fa1cb6951fa9dd81ed8fefd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+		INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:7:5-35:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Xuan\.gradle\caches\transforms-3\a4c5531440d789304747b0f4d3831e19\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Xuan\.gradle\caches\transforms-3\a4c5531440d789304747b0f4d3831e19\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Xuan\.gradle\caches\transforms-3\3119a911a7a9c2d9d685325d9c067556\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Xuan\.gradle\caches\transforms-3\3119a911a7a9c2d9d685325d9c067556\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Xuan\.gradle\caches\transforms-3\74f74d0d9eb180a29dfb8718e4619673\transformed\glide-4.13.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Xuan\.gradle\caches\transforms-3\74f74d0d9eb180a29dfb8718e4619673\transformed\glide-4.13.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.7.0] C:\Users\Xuan\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Xuan\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Xuan\.gradle\caches\transforms-3\f1b611f90791e53ddae38c72310a96cc\transformed\gifdecoder-4.13.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Xuan\.gradle\caches\transforms-3\f1b611f90791e53ddae38c72310a96cc\transformed\gifdecoder-4.13.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Xuan\.gradle\caches\transforms-3\227c5fd3fcee05438e1dbf228353e308\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Xuan\.gradle\caches\transforms-3\227c5fd3fcee05438e1dbf228353e308\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Xuan\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:13:9-45
+activity#com.cf.tourism.ContractActivity
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:15:13-45
+activity#com.cf.tourism.DetailActivity
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:18:13-43
+activity#com.cf.tourism.FakeActivity
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:21:13-41
+activity#com.cf.tourism.LoginActivity
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:24:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.cf.tourism.MainActivity
+ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:32:9-34:49
+	android:exported
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml:33:13-41
+uses-sdk
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Xuan\.gradle\caches\transforms-3\a853fda617d78bf508a401c46e4a5067\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Xuan\.gradle\caches\transforms-3\a853fda617d78bf508a401c46e4a5067\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Xuan\.gradle\caches\transforms-3\a4c5531440d789304747b0f4d3831e19\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Xuan\.gradle\caches\transforms-3\a4c5531440d789304747b0f4d3831e19\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Xuan\.gradle\caches\transforms-3\3119a911a7a9c2d9d685325d9c067556\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Xuan\.gradle\caches\transforms-3\3119a911a7a9c2d9d685325d9c067556\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Xuan\.gradle\caches\transforms-3\0730827d1aa8c754a1b0c5cb09da9d35\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] C:\Users\Xuan\.gradle\caches\transforms-3\0730827d1aa8c754a1b0c5cb09da9d35\transformed\appcompat-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Xuan\.gradle\caches\transforms-3\74f74d0d9eb180a29dfb8718e4619673\transformed\glide-4.13.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.0] C:\Users\Xuan\.gradle\caches\transforms-3\74f74d0d9eb180a29dfb8718e4619673\transformed\glide-4.13.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\a8d61499fa069c54974b568507ed2faf\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\a8d61499fa069c54974b568507ed2faf\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Xuan\.gradle\caches\transforms-3\a8d93e52e76f6b2d2a2c2cefe65ba64f\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] C:\Users\Xuan\.gradle\caches\transforms-3\a8d93e52e76f6b2d2a2c2cefe65ba64f\transformed\fragment-1.3.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Xuan\.gradle\caches\transforms-3\0a9cda4f30b8e7b084710d1dc0a21ba2\transformed\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] C:\Users\Xuan\.gradle\caches\transforms-3\0a9cda4f30b8e7b084710d1dc0a21ba2\transformed\activity-1.2.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Xuan\.gradle\caches\transforms-3\23e8d1415321301bbb0bc725ed17b6f6\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] C:\Users\Xuan\.gradle\caches\transforms-3\23e8d1415321301bbb0bc725ed17b6f6\transformed\appcompat-resources-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\bd4eef4f5442853c1dec23f40d0089e3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\bd4eef4f5442853c1dec23f40d0089e3\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\a5570e1fa94c37b068a1f2c84857bdb5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\a5570e1fa94c37b068a1f2c84857bdb5\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\9687f07566da4384dc89e16ea088dfe0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\9687f07566da4384dc89e16ea088dfe0\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Xuan\.gradle\caches\transforms-3\e868dff6a42eaeeb636b72fa989639b2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Xuan\.gradle\caches\transforms-3\e868dff6a42eaeeb636b72fa989639b2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\c0c5254ca195197b52e76ce985792209\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\c0c5254ca195197b52e76ce985792209\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\c4d3e86c21d0060759c2cb255a4a146b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\c4d3e86c21d0060759c2cb255a4a146b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\a976b3973a19117cd60544c9e392a5a0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\a976b3973a19117cd60544c9e392a5a0\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\8ae72c9cdbcce77d279e7b34c46f9d5b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\8ae72c9cdbcce77d279e7b34c46f9d5b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\3ea4ebd9221beca529a327239eb4504a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\3ea4ebd9221beca529a327239eb4504a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\00472b53e1b1d66ffbe69491400a6ac5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\00472b53e1b1d66ffbe69491400a6ac5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\8156ee4f9e5c1ca8e3e892f57f10268c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\8156ee4f9e5c1ca8e3e892f57f10268c\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\Xuan\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Xuan\.gradle\caches\transforms-3\234a538a20b20407a3c9b7e7a53bb83d\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\72f1c97ff6204af886160caebafcd1c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\72f1c97ff6204af886160caebafcd1c9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\6b37cecfc7dd9876670f4a69167b6081\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\6b37cecfc7dd9876670f4a69167b6081\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\05cb3fb8d7abb322c0ea6461c0facac5\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\05cb3fb8d7abb322c0ea6461c0facac5\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\bf5a2e6385b5c3cfdf189b59fa48a1a8\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\bf5a2e6385b5c3cfdf189b59fa48a1a8\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\b3607758cc09900db33f0aadc3764b6d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\b3607758cc09900db33f0aadc3764b6d\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\beb5996562aae1c5c682e0da30cf6ef4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\beb5996562aae1c5c682e0da30cf6ef4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Xuan\.gradle\caches\transforms-3\f1b611f90791e53ddae38c72310a96cc\transformed\gifdecoder-4.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.0] C:\Users\Xuan\.gradle\caches\transforms-3\f1b611f90791e53ddae38c72310a96cc\transformed\gifdecoder-4.13.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Xuan\.gradle\caches\transforms-3\cb336aeb843fe1b812e15a9289fce3d0\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Xuan\.gradle\caches\transforms-3\cb336aeb843fe1b812e15a9289fce3d0\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\0bc47bb8c41cf224d1e82e026f1c6eea\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\0bc47bb8c41cf224d1e82e026f1c6eea\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Xuan\.gradle\caches\transforms-3\227c5fd3fcee05438e1dbf228353e308\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Xuan\.gradle\caches\transforms-3\227c5fd3fcee05438e1dbf228353e308\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\10152abbe9d714382c4cfa4286a5f245\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\10152abbe9d714382c4cfa4286a5f245\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\89961c0cbe256c3c3478622d15a99943\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Xuan\.gradle\caches\transforms-3\89961c0cbe256c3c3478622d15a99943\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\312759f95f5b17b49b3a0d3c7068c03b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\312759f95f5b17b49b3a0d3c7068c03b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\f4a0188b1d5584df4388b22dec68648e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\f4a0188b1d5584df4388b22dec68648e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\e46c73095c8fa9976053cee1668aab2b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\e46c73095c8fa9976053cee1668aab2b\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\bf6f6efc009e5e544b348e31144b4b9d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\bf6f6efc009e5e544b348e31144b4b9d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\563980873d44ac8bc5a14f3a3575b789\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Xuan\.gradle\caches\transforms-3\563980873d44ac8bc5a14f3a3575b789\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\1de1497f5fa1cb6951fa9dd81ed8fefd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Xuan\.gradle\caches\transforms-3\1de1497f5fa1cb6951fa9dd81ed8fefd\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+		INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+		ADDED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml
+		INJECTED from E:\xdu\android\Tourism\Tourism\app\src\main\AndroidManifest.xml

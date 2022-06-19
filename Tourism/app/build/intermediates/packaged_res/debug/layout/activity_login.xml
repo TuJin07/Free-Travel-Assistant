@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/a1_10"
+    tools:context=".LoginActivity">
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="12dp"
+        android:hint="请输入账号"
+        android:layout_marginTop="80dp"
+        />
+
+    <EditText
+        android:id="@+id/ps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="12dp"
+        android:hint="请输入密码"
+        android:layout_marginVertical="20dp"
+        />
+
+    <TextView
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="12dp"
+        android:paddingVertical="10dp"
+        android:text="登 录"
+        android:gravity="center"
+        android:background="@drawable/tv"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/a1_600"
+        android:textSize="16sp"
+        />
+
+</LinearLayout>
