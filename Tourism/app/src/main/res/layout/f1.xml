@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/banner"
+        android:layout_width="match_parent"
+        android:layout_height="270dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="10dp"
+        />
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="10dp"
+                >
+
+                <TextView
+                    android:id="@+id/map"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:paddingVertical="20dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:layout_weight="1"
+                    android:text="地图"
+                    android:textColor="@color/white"
+                    android:background="@color/a1_600"
+                    />
+                <TextView
+                    android:id="@+id/route"
+                    android:textColor="@color/white"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:text="路线"
+                    android:background="@color/a1_600"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:paddingVertical="20dp"
+                    android:layout_marginHorizontal="20dp"
+                    />
+
+                <TextView
+                    android:id="@+id/viewpoint"
+                    android:layout_width="0dp"
+                    android:textColor="@color/white"
+                    android:layout_weight="1"
+                    android:text="景点"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:paddingVertical="20dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:background="@color/a1_600"
+                    />
+
+                <TextView
+                    android:id="@+id/food"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:text="美食"
+                    android:background="@color/a1_600"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:paddingVertical="20dp"
+                    android:layout_marginHorizontal="20dp"
+                    />
+
+
+            </LinearLayout>
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rcv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                />
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>
